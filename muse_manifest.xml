@@ -1,0 +1,383 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lagerair.github.io" resolutions="1x" timestamp="1496293030368">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="logo.css" crc="4046499813" ref="logo"/>
+    <file name="index.css" crc="3809120324" ref="index"/>
+    <file name="twitch.css" crc="121293292" ref="twitch"/>
+    <file name="youtube.css" crc="60036564" ref="youtube"/>
+    <file name="vk.css" crc="50584887" ref="vk"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>logo-m:phone>vk-m:phone>twitch-m:phone>youtube-m:index:logo:vk:youtube:twitch"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:phone>logo-m:phone>vk-m:phone>twitch-m:phone>youtube-m:index:logo:vk:youtube:twitch"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>logo-m:phone>vk-m:phone>twitch-m:phone>youtube-m:index:logo:vk:youtube:twitch"/>
+    <file name="museconfig.js" crc="3849126041" ref="phone>index:phone>logo-m:phone>vk-m:phone>twitch-m:phone>youtube-m:index:logo:vk:youtube:twitch"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="phone>index:phone>logo-m:phone>vk-m:phone>twitch-m:phone>youtube-m:index:logo:vk:youtube:twitch"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:phone>logo-m:phone>vk-m:phone>twitch-m:phone>youtube-m:index:logo:vk:youtube:twitch"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:phone>logo-m:phone>vk-m:phone>twitch-m:phone>youtube-m:index:logo:vk:youtube:twitch"/>
+    <file name="webpro.js" crc="3770351119" ref="phone>logo-m:phone>vk-m:phone>twitch-m:phone>youtube-m:logo:vk:youtube:twitch"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="phone>logo-m:phone>vk-m:phone>twitch-m:phone>youtube-m:logo:vk:youtube:twitch"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="phone>logo-m:phone>vk-m:phone>twitch-m:phone>youtube-m:logo:vk:youtube:twitch"/>
+    <file name="touchswipe.js" crc="3912873526" ref="phone>logo-m:phone>vk-m:phone>twitch-m:phone>youtube-m:logo:vk:youtube:twitch"/>
+  </folder>
+  <folder name="images">
+    <file name="11-u5385-fr.jpg" crc="319720012" ref="phone>index"/>
+    <file name="u5394.png" crc="203876810" ref="phone>index"/>
+    <file name="u5394-r.png" crc="3764995131" ref="phone>index"/>
+    <file name="u5398.png" crc="4160327215" ref="phone>index"/>
+    <file name="u5398-r.png" crc="4166710514" ref="phone>index"/>
+    <file name="u5396.png" crc="242752399" ref="phone>index"/>
+    <file name="u5396-r.png" crc="4000397579" ref="phone>index"/>
+    <file name="u5400.png" crc="4028791275" ref="phone>index"/>
+    <file name="u5400-r.png" crc="4013393167" ref="phone>index"/>
+    <file name="u5388.png" crc="4162101668" ref="phone>index"/>
+    <file name="u5388-r.png" crc="125017779" ref="phone>index"/>
+    <file name="u5390.png" crc="533228251" ref="phone>index"/>
+    <file name="u5390-r.png" crc="2300121" ref="phone>index"/>
+    <file name="u5392.png" crc="4004743440" ref="phone>index"/>
+    <file name="u5392-r.png" crc="4036635463" ref="phone>index"/>
+    <file name="u5386.png" crc="4096179601" ref="phone>index"/>
+    <file name="u5386-r.png" crc="4108763929" ref="phone>index"/>
+    <file name="11-u5444-fr.jpg" crc="356249707" ref="phone>logo-m:phone>vk-m:phone>twitch-m:phone>youtube-m"/>
+    <file name="1265x149.png" crc="445399335" seo="true" ref="phone>logo-m">
+      <caption webpage="logo-m" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>logo-m:phone>vk-m:phone>twitch-m:phone>youtube-m:logo:vk:youtube:twitch"/>
+    <file name="2265x149.png" crc="3792604442" seo="true" ref="phone>logo-m">
+      <caption webpage="logo-m" alt=""/>
+    </file>
+    <file name="3265x149.png" crc="322933953" seo="true" ref="phone>logo-m">
+      <caption webpage="logo-m" alt=""/>
+    </file>
+    <file name="4265x149.png" crc="3937163722" seo="true" ref="phone>logo-m">
+      <caption webpage="logo-m" alt=""/>
+    </file>
+    <file name="5265x149.png" crc="4166028379" seo="true" ref="phone>logo-m">
+      <caption webpage="logo-m" alt=""/>
+    </file>
+    <file name="1-crop-u5468.png" crc="4137906794" seo="true" ref="phone>logo-m">
+      <caption webpage="logo-m" alt=""/>
+    </file>
+    <file name="2-crop-u5466.png" crc="4072837475" seo="true" ref="phone>logo-m">
+      <caption webpage="logo-m" alt=""/>
+    </file>
+    <file name="3-crop-u5464.png" crc="427588384" seo="true" ref="phone>logo-m">
+      <caption webpage="logo-m" alt=""/>
+    </file>
+    <file name="4-crop-u5470.png" crc="3925013867" seo="true" ref="phone>logo-m">
+      <caption webpage="logo-m" alt=""/>
+    </file>
+    <file name="5-crop-u5462.png" crc="25156738" seo="true" ref="phone>logo-m">
+      <caption webpage="logo-m" alt=""/>
+    </file>
+    <file name="u5459.png" crc="3896031314" ref="phone>logo-m"/>
+    <file name="u5459-r.png" crc="509504789" ref="phone>logo-m"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>logo-m:phone>vk-m:phone>twitch-m:phone>youtube-m:logo:vk:youtube:twitch"/>
+    <file name="u5453.png" crc="382793821" ref="phone>logo-m"/>
+    <file name="u5453-r.png" crc="313192739" ref="phone>logo-m"/>
+    <file name="u5447.png" crc="4086151339" ref="phone>logo-m"/>
+    <file name="u5447-r.png" crc="4017512035" ref="phone>logo-m"/>
+    <file name="u5449.png" crc="29411070" ref="phone>logo-m"/>
+    <file name="u5449-r.png" crc="68695522" ref="phone>logo-m"/>
+    <file name="u5451.png" crc="4182137443" ref="phone>logo-m"/>
+    <file name="u5451-r.png" crc="4242815381" ref="phone>logo-m"/>
+    <file name="u5445.png" crc="508289535" ref="phone>logo-m"/>
+    <file name="u5445-r.png" crc="128406708" ref="phone>logo-m"/>
+    <file name="1.jpg" crc="3843832437" seo="true" ref="phone>vk-m">
+      <caption webpage="vk-m" alt=""/>
+    </file>
+    <file name="2.jpg" crc="106295172" seo="true" ref="phone>vk-m">
+      <caption webpage="vk-m" alt=""/>
+    </file>
+    <file name="3.jpg" crc="4031282560" seo="true" ref="phone>vk-m">
+      <caption webpage="vk-m" alt=""/>
+    </file>
+    <file name="4.jpg" crc="3941792694" seo="true" ref="phone>vk-m">
+      <caption webpage="vk-m" alt=""/>
+    </file>
+    <file name="5.jpg" crc="319191570" seo="true" ref="phone>vk-m">
+      <caption webpage="vk-m" alt=""/>
+    </file>
+    <file name="6.jpg" crc="3886432145" seo="true" ref="phone>vk-m">
+      <caption webpage="vk-m" alt=""/>
+    </file>
+    <file name="1-crop-u5693.jpg" crc="442749058" seo="true" ref="phone>vk-m">
+      <caption webpage="vk-m" alt=""/>
+    </file>
+    <file name="2-crop-u6103.jpg" crc="131187189" seo="true" ref="phone>vk-m">
+      <caption webpage="vk-m" alt=""/>
+    </file>
+    <file name="3-crop-u6129.jpg" crc="3902410849" seo="true" ref="phone>vk-m">
+      <caption webpage="vk-m" alt=""/>
+    </file>
+    <file name="4-crop-u6155.jpg" crc="3839710398" seo="true" ref="phone>vk-m">
+      <caption webpage="vk-m" alt=""/>
+    </file>
+    <file name="5-crop-u6181.jpg" crc="3784206732" seo="true" ref="phone>vk-m">
+      <caption webpage="vk-m" alt=""/>
+    </file>
+    <file name="6-crop-u6207.jpg" crc="4005083207" seo="true" ref="phone>vk-m">
+      <caption webpage="vk-m" alt=""/>
+    </file>
+    <file name="u5678.png" crc="3896031314" ref="phone>vk-m"/>
+    <file name="u5678-r.png" crc="509504789" ref="phone>vk-m"/>
+    <file name="u5659.png" crc="382793821" ref="phone>vk-m"/>
+    <file name="u5659-r.png" crc="313192739" ref="phone>vk-m"/>
+    <file name="u5657.png" crc="4086151339" ref="phone>vk-m"/>
+    <file name="u5657-r.png" crc="4017512035" ref="phone>vk-m"/>
+    <file name="u5662.png" crc="29411070" ref="phone>vk-m"/>
+    <file name="u5662-r.png" crc="68695522" ref="phone>vk-m"/>
+    <file name="u5666.png" crc="4182137443" ref="phone>vk-m"/>
+    <file name="u5666-r.png" crc="4242815381" ref="phone>vk-m"/>
+    <file name="u5664.png" crc="508289535" ref="phone>vk-m"/>
+    <file name="u5664-r.png" crc="128406708" ref="phone>vk-m"/>
+    <file name="hibqyrahzui304x171.jpg" crc="118699597" seo="true" ref="phone>twitch-m">
+      <caption webpage="twitch-m" alt=""/>
+    </file>
+    <file name="p8ql886r5oy303x171.jpg" crc="3845173857" seo="true" ref="phone>twitch-m">
+      <caption webpage="twitch-m" alt=""/>
+    </file>
+    <file name="hibqyrahzui-crop-u5858.jpg" crc="427973060" seo="true" ref="phone>twitch-m">
+      <caption webpage="twitch-m" alt=""/>
+    </file>
+    <file name="p8ql886r5oy-crop-u6256.jpg" crc="3957198444" seo="true" ref="phone>twitch-m">
+      <caption webpage="twitch-m" alt=""/>
+    </file>
+    <file name="u5852.png" crc="3896031314" ref="phone>twitch-m"/>
+    <file name="u5852-r.png" crc="509504789" ref="phone>twitch-m"/>
+    <file name="u5888.png" crc="382793821" ref="phone>twitch-m"/>
+    <file name="u5888-r.png" crc="313192739" ref="phone>twitch-m"/>
+    <file name="u5846.png" crc="4086151339" ref="phone>twitch-m"/>
+    <file name="u5846-r.png" crc="4017512035" ref="phone>twitch-m"/>
+    <file name="u5848.png" crc="29411070" ref="phone>twitch-m"/>
+    <file name="u5848-r.png" crc="68695522" ref="phone>twitch-m"/>
+    <file name="u5886.png" crc="4182137443" ref="phone>twitch-m"/>
+    <file name="u5886-r.png" crc="4242815381" ref="phone>twitch-m"/>
+    <file name="u5890.png" crc="508289535" ref="phone>twitch-m"/>
+    <file name="u5890-r.png" crc="128406708" ref="phone>twitch-m"/>
+    <file name="9pblyaqo7ay304x171.jpg" crc="198109901" seo="true" ref="phone>youtube-m">
+      <caption webpage="youtube-m" alt=""/>
+    </file>
+    <file name="dwusx5mncsq304x171.jpg" crc="4204916859" seo="true" ref="phone>youtube-m">
+      <caption webpage="youtube-m" alt=""/>
+    </file>
+    <file name="lxgaux-qk3i304x171.jpg" crc="417241147" seo="true" ref="phone>youtube-m">
+      <caption webpage="youtube-m" alt=""/>
+    </file>
+    <file name="pocy5h9tazg304x171.jpg" crc="3798205762" seo="true" ref="phone>youtube-m">
+      <caption webpage="youtube-m" alt=""/>
+    </file>
+    <file name="9pblyaqo7ay-crop-u5962.jpg" crc="4058221382" seo="true" ref="phone>youtube-m">
+      <caption webpage="youtube-m" alt=""/>
+    </file>
+    <file name="dwusx5mncsq-crop-u6309.jpg" crc="217445730" seo="true" ref="phone>youtube-m">
+      <caption webpage="youtube-m" alt=""/>
+    </file>
+    <file name="lxgaux-qk3i-crop-u6335.jpg" crc="497708281" seo="true" ref="phone>youtube-m">
+      <caption webpage="youtube-m" alt=""/>
+    </file>
+    <file name="pocy5h9tazg-crop-u6361.jpg" crc="4290883061" seo="true" ref="phone>youtube-m">
+      <caption webpage="youtube-m" alt=""/>
+    </file>
+    <file name="u5971.png" crc="3896031314" ref="phone>youtube-m"/>
+    <file name="u5971-r.png" crc="509504789" ref="phone>youtube-m"/>
+    <file name="u5927.png" crc="382793821" ref="phone>youtube-m"/>
+    <file name="u5927-r.png" crc="313192739" ref="phone>youtube-m"/>
+    <file name="u5931.png" crc="4086151339" ref="phone>youtube-m"/>
+    <file name="u5931-r.png" crc="4017512035" ref="phone>youtube-m"/>
+    <file name="u5925.png" crc="29411070" ref="phone>youtube-m"/>
+    <file name="u5925-r.png" crc="68695522" ref="phone>youtube-m"/>
+    <file name="u5934.png" crc="4182137443" ref="phone>youtube-m"/>
+    <file name="u5934-r.png" crc="4242815381" ref="phone>youtube-m"/>
+    <file name="u5929.png" crc="508289535" ref="phone>youtube-m"/>
+    <file name="u5929-r.png" crc="128406708" ref="phone>youtube-m"/>
+    <file name="11.jpg" crc="4154010319" ref="index:logo:vk:youtube:twitch">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3698.png" crc="203876810" ref="index"/>
+    <file name="u3698-r.png" crc="3764995131" ref="index"/>
+    <file name="u3718.png" crc="4160327215" ref="index"/>
+    <file name="u3718-r.png" crc="4166710514" ref="index"/>
+    <file name="u3708.png" crc="242752399" ref="index"/>
+    <file name="u3708-r.png" crc="4000397579" ref="index"/>
+    <file name="u3728.png" crc="4028791275" ref="index"/>
+    <file name="u3728-r.png" crc="4013393167" ref="index"/>
+    <file name="u3471.png" crc="4086151339" ref="index"/>
+    <file name="u3471-r.png" crc="4017512035" ref="index"/>
+    <file name="u3478.png" crc="29411070" ref="index"/>
+    <file name="u3478-r.png" crc="68695522" ref="index"/>
+    <file name="u3485.png" crc="4182137443" ref="index"/>
+    <file name="u3485-r.png" crc="4242815381" ref="index"/>
+    <file name="u3463.png" crc="508289535" ref="index"/>
+    <file name="u3463-r.png" crc="128406708" ref="index"/>
+    <file name="1.png" crc="4070547296" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="2.png" crc="245075181" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="3.png" crc="59531255" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="4.png" crc="3764278367" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="5.png" crc="4276965976" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="1-crop-u3778.png" crc="4052157141" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="2-crop-u3911.png" crc="3954729618" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="3-crop-u3937.png" crc="277466761" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="4-crop-u3963.png" crc="43307379" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="5-crop-u3989.png" crc="521116845" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="u3773.png" crc="3896031314" ref="logo"/>
+    <file name="u3773-r.png" crc="509504789" ref="logo"/>
+    <file name="u4080.png" crc="382793821" ref="logo"/>
+    <file name="u4080-r.png" crc="313192739" ref="logo"/>
+    <file name="u4052.png" crc="4086151339" ref="logo"/>
+    <file name="u4052-r.png" crc="4017512035" ref="logo"/>
+    <file name="u4054.png" crc="29411070" ref="logo"/>
+    <file name="u4054-r.png" crc="68695522" ref="logo"/>
+    <file name="u4056.png" crc="4182137443" ref="logo"/>
+    <file name="u4056-r.png" crc="4242815381" ref="logo"/>
+    <file name="u4050.png" crc="508289535" ref="logo"/>
+    <file name="u4050-r.png" crc="128406708" ref="logo"/>
+    <file name="12.jpg" crc="4018498892" seo="true" ref="vk">
+      <caption webpage="vk" alt=""/>
+    </file>
+    <file name="62.jpg" crc="177620496" seo="true" ref="vk">
+      <caption webpage="vk" alt=""/>
+    </file>
+    <file name="22.jpg" crc="194076010" seo="true" ref="vk">
+      <caption webpage="vk" alt=""/>
+    </file>
+    <file name="32.jpg" crc="3917737221" seo="true" ref="vk">
+      <caption webpage="vk" alt=""/>
+    </file>
+    <file name="42.jpg" crc="437425440" seo="true" ref="vk">
+      <caption webpage="vk" alt=""/>
+    </file>
+    <file name="52.jpg" crc="21291824" seo="true" ref="vk">
+      <caption webpage="vk" alt=""/>
+    </file>
+    <file name="1-crop-u4575.jpg" crc="498718221" seo="true" ref="vk">
+      <caption webpage="vk" alt=""/>
+    </file>
+    <file name="6-crop-u4708.jpg" crc="4132635129" seo="true" ref="vk">
+      <caption webpage="vk" alt=""/>
+    </file>
+    <file name="2-crop-u4579.jpg" crc="309005114" seo="true" ref="vk">
+      <caption webpage="vk" alt=""/>
+    </file>
+    <file name="3-crop-u4577.jpg" crc="4246303705" seo="true" ref="vk">
+      <caption webpage="vk" alt=""/>
+    </file>
+    <file name="4-crop-u4571.jpg" crc="110982181" seo="true" ref="vk">
+      <caption webpage="vk" alt=""/>
+    </file>
+    <file name="5-crop-u4573.jpg" crc="4027595149" seo="true" ref="vk">
+      <caption webpage="vk" alt=""/>
+    </file>
+    <file name="u4559.png" crc="3896031314" ref="vk"/>
+    <file name="u4559-r.png" crc="509504789" ref="vk"/>
+    <file name="u4590.png" crc="382793821" ref="vk"/>
+    <file name="u4590-r.png" crc="313192739" ref="vk"/>
+    <file name="u4586.png" crc="4086151339" ref="vk"/>
+    <file name="u4586-r.png" crc="4017512035" ref="vk"/>
+    <file name="u4593.png" crc="29411070" ref="vk"/>
+    <file name="u4593-r.png" crc="68695522" ref="vk"/>
+    <file name="u4588.png" crc="4182137443" ref="vk"/>
+    <file name="u4588-r.png" crc="4242815381" ref="vk"/>
+    <file name="u4584.png" crc="508289535" ref="vk"/>
+    <file name="u4584-r.png" crc="128406708" ref="vk"/>
+    <file name="9pblyaqo7ay.jpg" crc="130544042" seo="true" ref="youtube">
+      <caption webpage="youtube" alt=""/>
+    </file>
+    <file name="dwusx5mncsq.jpg" crc="27267368" seo="true" ref="youtube">
+      <caption webpage="youtube" alt=""/>
+    </file>
+    <file name="lxgaux-qk3i.jpg" crc="3947782738" seo="true" ref="youtube">
+      <caption webpage="youtube" alt=""/>
+    </file>
+    <file name="pocy5h9tazg.jpg" crc="3817354910" seo="true" ref="youtube">
+      <caption webpage="youtube" alt=""/>
+    </file>
+    <file name="9pblyaqo7ay-crop-u4835.jpg" crc="4144069388" seo="true" ref="youtube">
+      <caption webpage="youtube" alt=""/>
+    </file>
+    <file name="dwusx5mncsq-crop-u4903.jpg" crc="3880574426" seo="true" ref="youtube">
+      <caption webpage="youtube" alt=""/>
+    </file>
+    <file name="lxgaux-qk3i-crop-u4923.jpg" crc="3820740243" seo="true" ref="youtube">
+      <caption webpage="youtube" alt=""/>
+    </file>
+    <file name="pocy5h9tazg-crop-u4943.jpg" crc="4039532708" seo="true" ref="youtube">
+      <caption webpage="youtube" alt=""/>
+    </file>
+    <file name="u4813.png" crc="3896031314" ref="youtube"/>
+    <file name="u4813-r.png" crc="509504789" ref="youtube"/>
+    <file name="u4733.png" crc="382793821" ref="youtube"/>
+    <file name="u4733-r.png" crc="313192739" ref="youtube"/>
+    <file name="u4736.png" crc="4086151339" ref="youtube"/>
+    <file name="u4736-r.png" crc="4017512035" ref="youtube"/>
+    <file name="u4731.png" crc="29411070" ref="youtube"/>
+    <file name="u4731-r.png" crc="68695522" ref="youtube"/>
+    <file name="u4727.png" crc="4182137443" ref="youtube"/>
+    <file name="u4727-r.png" crc="4242815381" ref="youtube"/>
+    <file name="u4729.png" crc="508289535" ref="youtube"/>
+    <file name="u4729-r.png" crc="128406708" ref="youtube"/>
+    <file name="hibqyrahzui.jpg" crc="168573187" seo="true" ref="twitch">
+      <caption webpage="twitch" alt=""/>
+    </file>
+    <file name="p8ql886r5oy.jpg" crc="3888643574" seo="true" ref="twitch">
+      <caption webpage="twitch" alt=""/>
+    </file>
+    <file name="hibqyrahzui-crop-u4971.jpg" crc="335844471" seo="true" ref="twitch">
+      <caption webpage="twitch" alt=""/>
+    </file>
+    <file name="p8ql886r5oy-crop-u5103.jpg" crc="460214595" seo="true" ref="twitch">
+      <caption webpage="twitch" alt=""/>
+    </file>
+    <file name="u4990.png" crc="3896031314" ref="twitch"/>
+    <file name="u4990-r.png" crc="509504789" ref="twitch"/>
+    <file name="u5058.png" crc="382793821" ref="twitch"/>
+    <file name="u5058-r.png" crc="313192739" ref="twitch"/>
+    <file name="u5062.png" crc="4086151339" ref="twitch"/>
+    <file name="u5062-r.png" crc="4017512035" ref="twitch"/>
+    <file name="u5060.png" crc="29411070" ref="twitch"/>
+    <file name="u5060-r.png" crc="68695522" ref="twitch"/>
+    <file name="u5054.png" crc="4182137443" ref="twitch"/>
+    <file name="u5054-r.png" crc="4242815381" ref="twitch"/>
+    <file name="u5056.png" crc="508289535" ref="twitch"/>
+    <file name="u5056-r.png" crc="128406708" ref="twitch"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="youtube-m.css" crc="63951280" ref="phone>youtube-m"/>
+      <file name="twitch-m.css" crc="3971205650" ref="phone>twitch-m"/>
+      <file name="index.css" crc="280190231" ref="phone>index"/>
+      <file name="vk-m.css" crc="282813601" ref="phone>vk-m"/>
+      <file name="logo-m.css" crc="51664285" ref="phone>logo-m"/>
+    </folder>
+    <file name="index.html" crc="3939190284" seo="true" mt="1496292908876" redirect="true"/>
+    <file name="logo-m.html" crc="4140657955" seo="true" mt="1496292534816" redirect="true"/>
+    <file name="vk-m.html" crc="3804880244" seo="true" mt="1496292680811" redirect="true"/>
+    <file name="twitch-m.html" crc="4053812015" seo="true" mt="1496292778925" redirect="true"/>
+    <file name="youtube-m.html" crc="4127780696" seo="true" mt="1496292888183" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3890792225" seo="true" mt="1496292484077" redirect="true"/>
+  <file name="logo.html" crc="178486233" seo="true" mt="1496291994290" redirect="true"/>
+  <file name="vk.html" crc="3842532889" seo="true" mt="1496292614512" redirect="true"/>
+  <file name="youtube.html" crc="3866605118" seo="true" mt="1496291994291" redirect="true"/>
+  <file name="twitch.html" crc="467505715" seo="true" mt="1496291994291" redirect="true"/>
+</manifest>
